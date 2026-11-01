@@ -1,5 +1,5 @@
 # GTA San Andreas FullPack with MoonLoader
-This FullPack contains: gta_sa.exe version 1.0 US (patch), CLEO 4.4.4, ModLoader, MoonLoader v26, Silent's ASI Loader, SilentPatchSA, Widescreen fix, and the **d3d9.dll** file which **runs the game** in **windowed mode**.
+This FullPack contains: gta_sa.exe version 1.0 US (patch), CLEO, ModLoader, MoonLoader, Silent's ASI Loader, SilentPatchSA, Widescreen fix, and the **d3d9.dll** file which **runs the game** in **windowed mode**.
 
 # Installation
 - Download the FullPack
